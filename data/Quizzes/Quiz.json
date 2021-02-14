@@ -1,0 +1,54 @@
+[
+    {
+        "_title": "Softwaredesign",
+        "_author": "Admin",
+        "_public": true,
+        "_questions": [
+            {
+                "type": "1",
+                "Question": "What does a use case diagram represent",
+                "Answers": [
+                    "a rough description of the system's performance as a sketch",
+                    "different processes on different levels of abstraction",
+                    "the structure of classes and relationships between them and their objects"
+                ]
+            },
+            {
+                "type": "2",
+                "Question": "When did Robert C Martin and other authors write the widely acclaimed book Clean Code",
+                "Answers": "2008"
+            },
+            {
+                "type": "3",
+                "Question": "What was Robert C Martins alias",
+                "Answers": "Uncle Bob"
+            }
+        ]
+    },
+    {
+        "_title": "general knowledge",
+        "_author": "Admin",
+        "_public": false,
+        "_questions": [
+            {
+                "type": "1",
+                "Question": "Who used \"shotgun sequencing\" to decipher the human genome",
+                "Answers": [
+                    "Craig Venter",
+                    "Carl Woese",
+                    "Hugh Huxley"
+                ]
+            },
+            {
+                "type": "2",
+                "Question": "How many moons does mars have",
+                "Answers": "2"
+            },
+            {
+                "type": "3",
+                "Question": "What is the name of the singer from Genesis",
+                "Answers": "Phil Collins"
+            }
+        ]
+    }
+]
